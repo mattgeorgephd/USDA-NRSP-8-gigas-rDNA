@@ -5,7 +5,7 @@
 # Pertinent documents
 1. [Manuscript]()
 2. [Proposal](https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/blob/939c3271038ea9007e09eb1bd4ca4151e1636aad/proposal/George-NRSP8_2022.pdf)
-3. [Tissue Sample List]() - stored 5-1-(3-4) in -80C
+3. [Tissue Sample List](https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/blob/f83756e93d4fb7ebf40c31b2095f9e4749f7cff3/morphometrics/morphometrics.xlsx) - stored 5-1-(3-4) in -80C
 4. [Github Issue]()
 
 Family names: F5, F12, F13, F14
