@@ -8,6 +8,8 @@
 3. [Tissue Sample List](https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/blob/f83756e93d4fb7ebf40c31b2095f9e4749f7cff3/morphometrics/morphometrics.xlsx)
 4. [rDNA Github Issue](https://github.com/RobertsLab/resources/issues/1304)
 
+UW #: 63-7117
+
 Family names: F5, F12, F13, F14 </br>
 Tissue storage location: 5-1-(3&4) in FTR -80C
 
