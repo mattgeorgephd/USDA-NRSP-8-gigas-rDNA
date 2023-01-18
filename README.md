@@ -7,6 +7,7 @@
 2. [Proposal](https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/blob/939c3271038ea9007e09eb1bd4ca4151e1636aad/proposal/George-NRSP8_2022.pdf)
 3. [Tissue Sample List](https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/blob/f83756e93d4fb7ebf40c31b2095f9e4749f7cff3/morphometrics/morphometrics.xlsx)
 4. [rDNA Github Issue](https://github.com/RobertsLab/resources/issues/1304)
+5. [DNA extraction protocol](https://docs.google.com/document/d/1_qi5NZfPaGzD9gh-u01s8uGYy2OMPolZeltc9XMIE9M/edit?usp=sharing)
 
 UW #: 63-7117
 
