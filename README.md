@@ -8,6 +8,7 @@
 3. [Tissue Sample List](https://github.com/mattgeorgephd/USDA-NRSP-8-gigas-rDNA/blob/f83756e93d4fb7ebf40c31b2095f9e4749f7cff3/morphometrics/morphometrics.xlsx)
 4. [rDNA Github Issue](https://github.com/RobertsLab/resources/issues/1304)
 5. [DNA extraction protocol](https://docs.google.com/document/d/1_qi5NZfPaGzD9gh-u01s8uGYy2OMPolZeltc9XMIE9M/edit?usp=sharing)
+6. [DNA extraction results](https://docs.google.com/spreadsheets/d/1mT-RngtGx3yUCDWR5lFlwokGhHqkjkrOQ7xhuaMOPes/edit?usp=sharing)
 
 UW #: 63-7117
 
@@ -19,6 +20,7 @@ Tissue storage location: 5-1-(3&4) in FTR -80C
 2. 20221114 - Whole body oyster tissue samples collected. n=15 per family per ploidy.
 3. 20220117 - Grace Leuchtenberger wrote up the DNA extraction protocol.
 4. 20230126 - Henry Berg has expressed interest in helping with the DNA extraction.
+5. 20230202 - Ran first round of DNA extraction
 
 ## Notes
 sampling suggestions
