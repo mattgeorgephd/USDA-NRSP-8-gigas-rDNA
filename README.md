@@ -11,7 +11,8 @@
 6. [DNA extraction results](https://docs.google.com/spreadsheets/d/1mT-RngtGx3yUCDWR5lFlwokGhHqkjkrOQ7xhuaMOPes/edit?usp=sharing)
 
 UW #: 63-7117 </br>
-PO #: EI1382037
+PO #: EI1382037 </br>
+Order tracking #: 30-835022638
 
 Family names: F5, F12, F13, F14 </br>
 Tissue storage location: 5-1-(3&4) in FTR -80C
