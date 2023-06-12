@@ -16,7 +16,7 @@ UW budget #: 63-7-one-one-7 <br>
 Azenta PO #: EI1382037 <br>
 Azenta Order tracking #: 30-835022638
 
-Family names: F5, F12, F13, F14 <br>
+Family names: F05, F12, F13, F14 <br>
 Tissue storage location: 5-1-(3&4) in FTR -80C
 
 ## Progress
