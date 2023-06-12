@@ -10,6 +10,7 @@
 5. [DNA extraction protocol](https://docs.google.com/document/d/1_qi5NZfPaGzD9gh-u01s8uGYy2OMPolZeltc9XMIE9M/edit?usp=sharing)
 6. [DNA extraction results](https://docs.google.com/spreadsheets/d/1mT-RngtGx3yUCDWR5lFlwokGhHqkjkrOQ7xhuaMOPes/edit?usp=sharing)
 7. [Gannet Folder](https://gannet.fish.washington.edu/panopea/USDA-NRSP-8-gigas-rDNA/)
+8. [Nightingales Folder](http://owl.fish.washington.edu/nightingales/C_gigas/) - F05/F14 prefix
 
 ## Numbers
 UW budget #: 63-7-one-one-7 <br>
