@@ -1,6 +1,6 @@
 # USDA-NRSP-8-gigas-rDNA
 
-![](https://www.cell.com/cms/attachment/33a2524e-339f-4277-b056-39610d586d1f/gr3.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Eucaryot_rdna.png/400px-Eucaryot_rdna.png)
 
 ## Pertinent documents
 1. [Manuscript]()
